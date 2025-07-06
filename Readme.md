@@ -1,4 +1,4 @@
-# 🧠 DeepFace-Based Attendance Recognition Backend
+# 🧠 Deep Learning-Based Attendance Recognition Backend
 
 This is the **Python Flask backend** for a full-stack **AI-powered contactless attendance system**. It performs **facial recognition** using the **FaceNet** model (via DeepFace) and returns the verified identity of users based on real-time webcam images.
 
